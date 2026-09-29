@@ -7,7 +7,7 @@
   "homepage": "https://ogmake.com",
   "author": { "name": "ogmake", "email": "support@ogmake.com" },
   "bugs": { "email": "support@ogmake.com" },
-  "repository": { "type": "git", "url": "git+https://github.com/IgorBaranov/n8n-nodes-ogmake.git" },
+  "repository": { "type": "git", "url": "git+https://github.com/ogmake/n8n-nodes-ogmake.git" },
   "engines": { "node": ">=20.15" },
   "main": "index.js",
   "scripts": {
